@@ -32,7 +32,7 @@ export default function Home() {
           image: "https://avatars.githubusercontent.com/u/1443320?v=4",
         }}
       />
-      <Container>
+      <Container style={{maxWidth:'95%'}}>
         <Group>
           <PurchaseActionButton
             text="Sell Item"
